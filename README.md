@@ -170,7 +170,7 @@ Example:
 - Cricket: `India vs Australia | India won by 5 wickets`
 - News: `Breaking News | Major tech company announces breakthrough`
 
-## 📸 Screenshots
+## 📸 Images
 
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/eea181d2-bdc5-4ad2-8099-65223d2230f9" />
