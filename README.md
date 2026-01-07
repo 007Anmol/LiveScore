@@ -172,7 +172,7 @@ Example:
 
 ## 📸 Screenshots
 
-*Add your OLED display photos here!*
+
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/eea181d2-bdc5-4ad2-8099-65223d2230f9" />
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/da4c3f68-23bf-44d5-b304-3ea2858b341e" />
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/84494548-5ab1-48eb-8949-4dc57b2ed78f" />
@@ -180,4 +180,3 @@ Example:
 
 ---
 
-**Happy Coding! 🎉**
