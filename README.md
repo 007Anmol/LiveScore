@@ -170,24 +170,6 @@ Example:
 - Cricket: `India vs Australia | India won by 5 wickets`
 - News: `Breaking News | Major tech company announces breakthrough`
 
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for improvements!
-
-## 📝 License
-
-This project is open source and available for educational purposes.
-
-## 👨‍💻 Author
-
-Created for IIOE Project
-
-## 🔗 API Resources
-
-- [CricAPI Documentation](https://www.cricapi.com/documentation)
-- [NewsAPI Documentation](https://newsapi.org/docs)
-- [Adafruit SSD1306 Guide](https://learn.adafruit.com/monochrome-oled-breakouts)
-
 ## 📸 Screenshots
 
 *Add your OLED display photos here!*
