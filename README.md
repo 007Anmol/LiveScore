@@ -1,4 +1,4 @@
-# Live Cricket Score & News Display
+# Live Cricket Score & News Display from API
 
 A Python-Arduino project that displays live cricket scores and breaking news headlines on an OLED display (128x64).
 
